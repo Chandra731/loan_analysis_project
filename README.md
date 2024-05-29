@@ -16,7 +16,7 @@ The data used in this project is `loan_data.csv`.
 ## Usage
 1. Clone this repository:
 
-    git clone https://github.com/your-username/loan_analysis_project.git
+    git clone https://github.com/brucelee31072004/loan_analysis_project.git
     cd loan_analysis_project
   
 
